@@ -5,7 +5,7 @@ if [ -f agent/.env ]; then
 fi
 
 
-export APP_NAME="adkagent-on-cloudrun"
+export APP_NAME="adkagent-on-cloudrun1"
 
 adk deploy cloud_run \
 --project=${GOOGLE_CLOUD_PROJECT} \
