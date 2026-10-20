@@ -1,0 +1,13 @@
+{
+  "pdf_path": "/home/user/prepday1/chunking/sample_5pages.pdf",
+  "gcs_input_uri": "gs://genai-app-builder-docai-chunking/inputs/20261020_183403_sample_5pages.pdf",
+  "gcs_output_uri": "gs://genai-app-builder-docai-chunking/outputs/20261020_183405/",
+  "operation_name": "projects/680248386202/locations/eu/operations/14799191288853068399",
+  "json_files": [
+    "./results/20261020_183403_sample_5pages-0.json"
+  ],
+  "primary_json": "./results/20261020_183403_sample_5pages-0.json",
+  "chunk_count": 18,
+  "chunk_size": 150,
+  "timestamp": "20261020_183405"
+}

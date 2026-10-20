@@ -1,0 +1,4 @@
+google-cloud-documentai>=3.16.0
+google-cloud-storage>=3.17.0
+python-dotenv>=1.0.0
+pymupdf>=2.0.0
